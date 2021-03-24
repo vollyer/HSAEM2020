@@ -1,0 +1,18 @@
+﻿Data_use中包含的数据：
+    depth.mat: 表型的层次信息
+    alpha1.mat: 每个基因节点对应的个体跳转概率
+    gp_node_type: 对应节点类型的关联关系
+    
+    
+    
+
+
+d_depth: drug 层次 根据度计算
+t_depth: target 层次 根据度计算
+depth : 表型层次（本身存在）
+g_depth： 基因层次 根据度计算
+
+
+
+d_depth_true: drug 层次 根据重要度计算
+t_depth_true: target 层次 根据重要度计算
